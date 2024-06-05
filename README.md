@@ -166,6 +166,10 @@ Maxwell Nana Forson - [Github](https://github.com/nanafox) /
 Richard Tsibu Darkoh - [Github](https://github.com/RichardTsibu76) /
 [Twitter](https://twitter.com/_richardtsibu)
 
+Godfred Hammond - [Github](https://github.com/BlackOligarch)
+
+Adam Sadik - [Github](https://github.com/PoisebTechHub)
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection.
